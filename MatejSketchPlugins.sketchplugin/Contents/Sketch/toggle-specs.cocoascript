@@ -1,4 +1,6 @@
-var layerprefix = "specs";
+// Change "Spec" to "Bounds" - Chris
+
+var layerprefix = "Bounds";
 var visibility = nil;
 
 var onRun = function (context) {
